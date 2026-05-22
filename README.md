@@ -124,3 +124,6 @@ Shiva
 - AI-based text enhancement
 - Multi-language transcript cleanup
 - Audio-to-text integration<img width="1919" height="1029" alt="Screenshot 2026-05-22 102014" src="https://github.com/user-attachments/assets/40ed8953-b721-4a61-9d3d-5e207cbe2205" />
+<img width="1919" height="1002" alt="Screenshot 2026-05-22 102056" src="https://github.com/user-attachments/assets/7eef579c-f490-4c11-a5e5-b4c2f9e7a369" />
+<img width="1905" height="968" alt="Screenshot 2026-05-22 102401" src="https://github.com/user-attachments/assets/9b706aaa-c234-4378-b52e-771d62cdd746" />
+<img width="1915" height="952" alt="Screenshot 2026-05-22 102411" src="https://github.com/user-attachments/assets/8c56aa5d-5fe3-4f36-89b7-48c114d76b15" />
